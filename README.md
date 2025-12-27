@@ -39,7 +39,7 @@
 | **Automation** | n8n, Odoo, WhatsApp Integration |
 | **Full-Stack** | Next.js, React, FastAPI, Node.js |
 | **Mobile** | Flutter, Dart |
-| **DevOps** | Railway, Docker, CI/CD |
+| **DevOps** | Railway, Docker, CI/CD, AWS |
 
 ## Featured Projects
 
