@@ -33,11 +33,13 @@
 
 ## Expertise
 
-- **AI & Voice Agents:** LiveKit, OpenAI Realtime API, MCP Protocol, Tavus
-- **Automation:** n8n, Odoo, WhatsApp Integration
-- **Full-Stack:** Next.js, React, FastAPI, Node.js
-- **Mobile:** Flutter/Dart
-- **DevOps:** Railway, Docker, CI/CD
+| Domain | Technologies |
+|--------|-------------|
+| **AI & Voice Agents** | LiveKit, OpenAI Realtime API, MCP Protocol, Tavus |
+| **Automation** | n8n, Odoo, WhatsApp Integration |
+| **Full-Stack** | Next.js, React, FastAPI, Node.js |
+| **Mobile** | Flutter, Dart |
+| **DevOps** | Railway, Docker, CI/CD |
 
 ## Featured Projects
 
@@ -48,26 +50,12 @@
 | [Odoo Railway Deployment](https://github.com/karem505/odoo-railway-deployment) | Odoo 18 + LiveKit Voice Agent template | Python, Docker, Railway |
 | [Ailigent Spark](https://github.com/karem505/ailigent-spark) | AI-powered business automation platform | TypeScript, Next.js |
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karem505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karem505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abo-el-makarem-shohoud-745367244)
 
-</div>
+**Open to collaborations and exciting AI projects!**
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=karem505&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
