@@ -29,32 +29,33 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Expertise
 
-- **AI & Voice Agents:** LiveKit, OpenAI Realtime API, MCP Protocol
+- **AI & Voice Agents:** LiveKit, OpenAI Realtime API, MCP Protocol, Tavus
 - **Automation:** n8n, Odoo, WhatsApp Integration
 - **Full-Stack:** Next.js, React, FastAPI, Node.js
 - **Mobile:** Flutter/Dart
 - **DevOps:** Railway, Docker, CI/CD
 
-## GitHub Status
+## GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=karem505&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak Stats" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=karem505&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karem505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Technical Support Agent](https://github.com/karem505/technical-support-agent) | AI voice assistant for Odoo technical support with screen sharing | Python, LiveKit, FastAPI, OpenAI |
-| [Odoo Railway Deployment](https://github.com/karem505/-odoo-railway-deployment) | Odoo 18 + LiveKit Voice Agent - Railway deployment template | Python, Docker, Railway |
+| [PE Live AI Agent](https://github.com/karem505/PE-live-ai-agent) | Voice AI agent with LiveKit, OpenAI Realtime API, MCP & Tavus video avatar | Python, LiveKit, OpenAI, MCP |
+| [Technical Support Agent](https://github.com/karem505/technical-support-agent) | AI voice assistant for Odoo technical support | Python, LiveKit, FastAPI |
+| [Odoo Railway Deployment](https://github.com/karem505/odoo-railway-deployment) | Odoo 18 + LiveKit Voice Agent - Railway deployment template | Python, Docker, Railway |
 | [Ailigent Spark](https://github.com/karem505/ailigent-spark) | AI-powered business automation platform | TypeScript, Next.js |
 
 ## Let's Connect
