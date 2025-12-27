@@ -39,24 +39,24 @@
 - **Mobile:** Flutter/Dart
 - **DevOps:** Railway, Docker, CI/CD
 
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [PE Live AI Agent](https://github.com/karem505/PE-live-ai-agent) | Voice AI agent with LiveKit, OpenAI Realtime API, MCP & Tavus | Python, LiveKit, OpenAI |
+| [Technical Support Agent](https://github.com/karem505/technical-support-agent) | AI voice assistant for Odoo technical support | Python, LiveKit, FastAPI |
+| [Odoo Railway Deployment](https://github.com/karem505/odoo-railway-deployment) | Odoo 18 + LiveKit Voice Agent template | Python, Docker, Railway |
+| [Ailigent Spark](https://github.com/karem505/ailigent-spark) | AI-powered business automation platform | TypeScript, Next.js |
+
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karem505&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karem505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karem505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [PE Live AI Agent](https://github.com/karem505/PE-live-ai-agent) | Voice AI agent with LiveKit, OpenAI Realtime API, MCP & Tavus video avatar | Python, LiveKit, OpenAI, MCP |
-| [Technical Support Agent](https://github.com/karem505/technical-support-agent) | AI voice assistant for Odoo technical support | Python, LiveKit, FastAPI |
-| [Odoo Railway Deployment](https://github.com/karem505/odoo-railway-deployment) | Odoo 18 + LiveKit Voice Agent - Railway deployment template | Python, Docker, Railway |
-| [Ailigent Spark](https://github.com/karem505/ailigent-spark) | AI-powered business automation platform | TypeScript, Next.js |
 
 ## Let's Connect
 
