@@ -17,8 +17,18 @@
 
 - CEO and Co-founder at **Ailigent** - AI Automation Solutions
 - Building AI-powered voice agents with LiveKit & OpenAI
-- Specializing in business process automation
+- Specializing in business process automation & digital transformation
 - Based in Cairo, Egypt
+
+## Professional Roles @ Ailigent
+
+| Role | Focus |
+|------|-------|
+| **CEO & Co-founder** | Leading AI automation solutions and company vision |
+| **System Architect** | Designing scalable enterprise-grade systems |
+| **Scrum Master** | Facilitating agile workflows and team collaboration |
+| **Product Owner** | Managing product roadmap and stakeholder alignment |
+| **Business Analyst** | Conducting requirements analysis for digital transformation |
 
 ## Tech Stack
 
