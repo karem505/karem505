@@ -55,6 +55,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Karem Arabic Presentation](https://github.com/karem505/karem-arabic-presentation) | Claude Code skill for stunning Arabic/English HTML presentations with RTL support | Claude Code, HTML, CSS, JS |
 | [PE Live AI Agent](https://github.com/karem505/PE-live-ai-agent) | Voice AI agent with LiveKit, OpenAI Realtime API, MCP & Tavus | Python, LiveKit, OpenAI |
 | [Technical Support Agent](https://github.com/karem505/technical-support-agent) | AI voice assistant for Odoo technical support | Python, LiveKit, FastAPI |
 | [Odoo Railway Deployment](https://github.com/karem505/odoo-railway-deployment) | Odoo 18 + LiveKit Voice Agent template | Python, Docker, Railway |
