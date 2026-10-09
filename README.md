@@ -2,7 +2,7 @@
 
 # Abo-Elmakarem Shohoud
 
-### CEO & Co-founder @ Ailigent | AI Automation Expert
+### CTO @ Ailigent | Full-Stack Engineer | AI Automation
 
 *Helping businesses optimize processes and cut costs by up to 70% using AI & Automation*
 
@@ -15,20 +15,21 @@
 
 ## About Me
 
-- CEO and Co-founder at **Ailigent** - AI Automation Solutions
-- Building AI-powered voice agents with LiveKit & OpenAI
-- Specializing in business process automation & digital transformation
+- Chief Technology Officer (CTO) at **Ailigent** - AI Automation Solutions
+- Lead engineering, cloud infrastructure and delivery of three production SaaS products (Tornix.ai, Oravex.app, Costra.net)
+- Hands-on Full-Stack Engineer: TypeScript, Python, Next.js, FastAPI, Docker, AWS
+- Building AI agents with LiveKit, OpenAI Realtime API and MCP
+- Open source: [whatRust](https://github.com/karem505/whatRust) (Rust + Tauri, 125+ stars), [Egyptian Drug Database](https://github.com/karem505/egyptian-drug-database) (CC0)
 - Based in Cairo, Egypt
 
-## Professional Roles @ Ailigent
+## Responsibilities @ Ailigent
 
-| Role | Focus |
+| Area | Focus |
 |------|-------|
-| **CEO & Co-founder** | Leading AI automation solutions and company vision |
-| **System Architect** | Designing scalable enterprise-grade systems |
-| **Scrum Master** | Facilitating agile workflows and team collaboration |
-| **Product Owner** | Managing product roadmap and stakeholder alignment |
-| **Business Analyst** | Conducting requirements analysis for digital transformation |
+| **Technology leadership** | Architecture, engineering roadmap, technical decisions |
+| **Software engineering** | Full-stack development of production SaaS |
+| **DevOps and cloud** | CI/CD, Docker, AWS EC2, release management |
+| **Agile delivery** | Sprint planning, backlog, stakeholder alignment |
 
 ## Tech Stack
 
